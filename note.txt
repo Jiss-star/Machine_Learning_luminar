@@ -1,0 +1,4 @@
+Machine learning 
+###################
+to teach the machine
+machine give us output after studying and give us prediction 
