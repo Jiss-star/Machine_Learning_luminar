@@ -2,3 +2,14 @@ Machine learning
 ###################
 to teach the machine
 machine give us output after studying and give us prediction 
+#Based on data set machine learn
+ 
+credict_score                 interest-rate
+>>>..>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+900                            6.5
+500                            11.0
+800                            5.6
+550                            .
+750                            .
+#############################################
+credict_score                 find
