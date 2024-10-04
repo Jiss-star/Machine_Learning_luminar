@@ -85,6 +85,125 @@ Here are some commonly used **supervised learning algorithms**:
 10. **Naive Bayes**
 
 These algorithms are commonly used for both binary and multiclass classification tasks. Supervised learning algorithms require labeled datasets and are typically used for tasks like prediction, classification, and regression.
+---------------------------
+SUPERVISED MACHINE LEARNING|
+---------------------------
+Classification
+###################
+categorical data-to predict
+Y/N,0/1,T/F
+based on credict score interest rate reduce or not
+iris dataset,diabectics or not
+**K-Nearest Neighbors (KNN)**
+neigh bayers algorithm
+SVM-Support Vector Machine
+descision tree
+random forrest
+/////////////////////////////////////
+Regression
+###########
+if i want to predict a numerical/continous data we use regression model
+how many cm rain i get tomorrow
+value prediction
+year/salary
+simple linear regression
+multiple linear regression
+polynomial regression
+#######################################################################
+UNSUPERVISED ML
+--------------------------
+Data Contain more input samples
+Unlabeled data
+input has to be studied an input based on output is to be find
+-clustering
+more patients it became a cluster
+input samples to group in clustering
+-----------------------------------------
+market segmentation                      |
+#-----------------------------------------------------#
+-how to improve a business 
+-dress-trends,all are not provided with same offers 
+,zudio
+,westisides,lulu,fashions
+-completed using clustering
+JEWELLERY
+-diamond
+-platinum
+-silver
+-coins
+-gold-rose gold
+making charge different for all jewelleries
+#------------------------------------------------------#
+STEPS IN ML
+1)Data Collection
+2)Data Preparation and Exploration
+3)Performance Evaluation
+4)Model improvement and Deployment
+############################################################
+DATA COLLECTION
+##########################################################
+diabectics-not/yes dibectics collect
+Kaggle
+git
+data
+or from the source
+----------------------------------------------------------
+############################################################
+DATA PREPARATION AND EXPLORATION
+############################################################
+Before Data Cleaning we do visualization(data Exploration)
+Data cleaning-missing value handling/outliers/feature selection
+feature engineering
+############################################################
+3)MODEL CREATION
+Training of data model Creation
+############################################################
+4)PERFORMANCE EVALUATION
+############################################################
+
+############################################################
+4)Model improvement and Deployment
+############################################################
+Release created model
+############################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
