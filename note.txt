@@ -166,6 +166,58 @@ Training of data model Creation
 ############################################################
 Release created model
 ############################################################
+#TRAINING -to TEACH THE MACHINE-70%
+Testing-check if the machine study well-30%
+#INPUT_FEATURES-eg.pregnency ,glucose 
+This usually refers to the variables or attributes used as inputs to a machine learning model. These are the features that the model uses to make predictions or classifications.
+
+#output_Features-Column we need to predict-diabetic
+This likely refers to the target variables or the outcomes that the model is trying to predict based on the input features.
+#Class_labels-what we want to predict. yes/no
+In classification problems, these are the categories or classes that the model is trying to predict. For example, in a binary classification problem, the class labels might be "positive" and "negative
+
+#Input_labels-
+This could refer to the names or descriptions of the input features, helping to identify what each feature represents.
+
+#INPUT_FEATURES
+Square footage
+Number of bedrooms
+Number of bathrooms
+Lot size
+Year built
+
+#output_Features
+House price (in dollars)
+
+#Class_labels (if we were to categorize prices)
+Low-priced
+Medium-priced
+High-priced
+
+#Input_labels
+sq_ft: Square footage of the house
+num_bedrooms: Number of bedrooms
+num_bathrooms: Number of bathrooms
+lot_size: Size of the lot in square feet
+year_built: Year the house was constructed
+##supervised
+####################################################################################################################
+#Classification
+______________________________________________________________________________________________________________________
+\1.KNN              K nearest neighbours-check note book page 1
+___________________________________________________________________________________
+supervised
+-Used for classification and regression
+-Majority used for Classification-predict categorical variable
+-worked on distance formula/Eucledian formula
+root((x2-x1)^2+(y2-y1)^2)
+don't except 100 percent prediction
+-distance calculated for k=5
+so may square and circles
+a point is taken and want to predict if it is square or circle.
+Distance from the point to all squares and circle
+take the Circle square which is more closer
+
 
 
 
