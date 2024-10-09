@@ -217,9 +217,9 @@ so may square and circles
 a point is taken and want to predict if it is square or circle.
 Distance from the point to all squares and circle
 take the Circle square which is more closer
+ from sklearn.neighbors import KneighborsClassifier
 
-
-
+-COLAB STARTED
 
 
 
