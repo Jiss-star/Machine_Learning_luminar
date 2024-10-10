@@ -203,9 +203,9 @@ year_built: Year the house was constructed
 ##supervised
 ####################################################################################################################
 #Classification
-______________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________
 \1.KNN              K nearest neighbours-check note book page 1
-___________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________
 supervised
 -Used for classification and regression
 -Majority used for Classification-predict categorical variable
@@ -220,6 +220,42 @@ take the Circle square which is more closer
  from sklearn.neighbors import KneighborsClassifier
 
 -COLAB STARTED
+10-10-24
+___________________________________________________________________________________________________________________________________________
+Train test split using knn
+train_test_split of model_selection module of sklearn package
+NORMALIZATION TO GIVE EQUAL IMPORTANTS TO ALL THE COLUMNS
+EG:if the glucose column defines the dibectics because of the larger value the importants of other columns where gone tO PREVENT THIS WE HAVE TO NORMALIZE THE  column.ELSE the nmachine use the glucose clolumn mainly to predict dibectics.
+TWO METHODS--
+
+#STANDARD SCALAR-normaly used
+equation-z=(x-u)/s
+z:new value
+x-orgibal value
+u:mean 0f training data
+s:standard deviation of training data
+#MIN MAX SCALAR
+model
+fit-to collect values
+fit done.transform()
+#######
+the model knn
+model=Kneighbours(n_neighbors=7)
+model.fit(x_train,y_train)
+model.predict(x_test)
+######################################################################################################################################
+PERFORMANACE EVALUATION METHODS OF REGERSSION
+____________________________________________________________________________________________________________________________________
+
+
+1.accuracy score
+2.recall
+3.precision
+4.F1_Score
+__________________________________________________
+ALL worked based on a metrics
+CONFUSION METRICS
+
 
 
 
