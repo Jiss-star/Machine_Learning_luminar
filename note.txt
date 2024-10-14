@@ -254,11 +254,24 @@ ________________________________________________________________________________
 4.F1_Score
 __________________________________________________
 ALL worked based on a metrics
-CONFUSION METRICS
+CONFUSION METRICS-all the performance evaluaton matrix depends on
+____________________________________________________________________________________________________
 
-
-
-
+14-10-24
+_______________________________________________________________________________________
+CONFUSION MATRIX 
+-technical terms in matrix
+TP-1=1
+TN=0=0
+FP-0=1
+FN-1=0
+#ACCURACY SCORE
+#RANDOM_STATE-To prevent repeated change in accuracy score
+random_state=1
+random_state=0
+random-state=42
+reproducability
+____________________________________________________________________________________________________
 
 
 
