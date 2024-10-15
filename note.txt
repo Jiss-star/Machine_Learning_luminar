@@ -273,6 +273,14 @@ random-state=42
 reproducability
 ____________________________________________________________________________________________________
 
+15-10-24
+iris_heart_csv in collab-note
+heart.csv
+confusion matrix
+more that 2 outputs use confusion matrix display
+accuracy_score
+
+
 
 
 
