@@ -254,7 +254,7 @@ ________________________________________________________________________________
 4.F1_Score
 __________________________________________________
 ALL worked based on a metrics
-CONFUSION METRICS-all the performance evaluaton matrix depends on
+CONFUSION METRICS-all the performance evaluation matrix depends on
 ____________________________________________________________________________________________________
 
 14-10-24
@@ -279,6 +279,39 @@ heart.csv
 confusion matrix
 more that 2 outputs use confusion matrix display
 accuracy_score
+________________________________________________________________________________________________________________________
+
+Naive Bayes Algorithm
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Supervised Machine learning algorithm
+used for classification
+Based on Probability
+classifier work based on bayes theorem
+conditional probability
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PROBABILITY
+#Chances of occurrence
+CONDITIONAL PROBABILITY
+Conditional probability is the probability of an event occurring, given that another event has already occurred. In other words, it measures the likelihood of an event 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Suppose we have a deck of 52 cards, and you want to know the probability of drawing a King (event A) given that the card drawn is a face card (event B, where face cards are Jacks, Queens, or Kings).
+#occurence of cancer how many is cancer patients
+p(A|B)=p(A INTERSECTION B)/P(B)
+
+________________________________________________________________________________________________________________________________________
+18-10-2024
+Naive bayes using data
+gaussian-continuous
+Multinomial-discrete data-text a data
+Bernouli distribution:combination of both
+
+
+
+
+
+
+
+
 
 
 
